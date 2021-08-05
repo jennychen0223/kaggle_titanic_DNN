@@ -38,7 +38,7 @@
 ## 建立模型
 
 1. 設定預測目標變數與解釋變數
-2. 利用Keras模型套件建立DNN模型
+2. 利用Keras的套件建立DNN模型
 
 ## 模型結果
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/81677812/128303692-3ea6f207-a38f-4bb9-9cef-3de0f926251d.png">
