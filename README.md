@@ -9,9 +9,8 @@
 - 總參加人數：89,457
 - 排名：17,438 (前19.4%)
 
-![image](https://user-images.githubusercontent.com/81677812/128609220-3c40aa71-bf4d-4add-8415-22858c6faba8.png)
 ![image](https://user-images.githubusercontent.com/81677812/128609218-1f75f572-684a-43e4-94e4-b3dab0a1bc51.png)
-
+![image](https://user-images.githubusercontent.com/81677812/128609220-3c40aa71-bf4d-4add-8415-22858c6faba8.png)
 
 ## 資料來源
 
