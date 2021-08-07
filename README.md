@@ -51,8 +51,3 @@
 ## 模型結果
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/81677812/128303692-3ea6f207-a38f-4bb9-9cef-3de0f926251d.png">
 
-
-
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/81677812/128303849-0244e897-3c4c-485b-86f3-083cb3d52be8.png">
-
-
