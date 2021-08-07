@@ -8,6 +8,7 @@
 
 - 總參加人數：89,457
 - 排名：17,438 (前19.4%)
+後續可再思考其他資料處理方式及不同模型及參數設定來提高準確率！
 
 ![image](https://user-images.githubusercontent.com/81677812/128609218-1f75f572-684a-43e4-94e4-b3dab0a1bc51.png)
 ![image](https://user-images.githubusercontent.com/81677812/128609220-3c40aa71-bf4d-4add-8415-22858c6faba8.png)
@@ -23,7 +24,6 @@
 
 - 了解資料
 - 資料前處理
-- 資料比較
 - 建立模型
 - 模型評估
 
@@ -51,9 +51,7 @@
 ## 模型結果
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/81677812/128303692-3ea6f207-a38f-4bb9-9cef-3de0f926251d.png">
 
-## 預測結果
-成績為0.77751，排名為17,309，共有86,228組參害隊伍，故為世界第前20%的排名
-後續可再思考其他資料處理方式及不同模型及參數設定來提高準確率！
+
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/81677812/128303849-0244e897-3c4c-485b-86f3-083cb3d52be8.png">
 
